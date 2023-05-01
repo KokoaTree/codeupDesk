@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class codeup1073 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         int nVal;
         for(int i = 1; i != 0; i++) {
